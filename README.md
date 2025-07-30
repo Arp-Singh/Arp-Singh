@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React and Jekyll**
 
-- 👨‍💻 Looking for my Front-end work? Have a look at my [social media dashboard!](https://github.com/Arp-Singh?tab=repositories)
+- 👨‍💻 Looking for my Front-end work? Have a look at my [social media dashboard!]([https://github.com/Arp-Singh?tab=repositories](https://arp-singh.github.io/social-media-dashboard/))
 
 - 📝 I have a blog site made with Jekyll! Currently under construction - [https://arp-singh.github.io](https://arp-singh.github.io)
 
