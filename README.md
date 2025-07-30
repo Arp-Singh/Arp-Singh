@@ -2,8 +2,7 @@
 <h3 align="center">From Minecraft Java Mods to Web Dev to DevOps, I have a broad range of skills that enable me to excel in any environment! If you like what you've heard, don't hesitate to get a hold of me via LinkedIn!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arp-singh&label=Profile%20views&color=0e75b6&style=flat" alt="arp-singh" /> </p>
-
-- 🔭 I’m currently working on [Arp's Tech Odyssey](https://arp-singh.github.io)
+<!-- 🔭 I’m currently working on [Arp's Tech Odyssey](https://arp-singh.github.io) -->
 
 - 🌱 I’m currently learning **React and Jekyll**
 
